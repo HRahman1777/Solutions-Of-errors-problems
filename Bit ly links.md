@@ -9,3 +9,5 @@ Database Management System >> http://bit.ly/dbms1777
 Computer Network >> http://bit.ly/cnetwork1777
 
 Movie, Book, Course >> https://bit.ly/entertainment1777
+
+Summer2020 course MeetLink >> https://bit.ly/linksummer2020
