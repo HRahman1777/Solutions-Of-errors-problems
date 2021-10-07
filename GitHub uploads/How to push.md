@@ -1,5 +1,12 @@
 # GitHub command cheats
 
+## terminal login with git
+> git config --global user.name "Your name here"
+
+> git config --global user.email "your_email"
+
+
+
 ## create a new repository
 
 > git init
